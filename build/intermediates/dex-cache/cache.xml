@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.volley-volley-1.0.0_d17cf5eaec555af1558056ff69cd7945e9ebf03b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c4bcd8d65d8d02d3359d52490e4d73f4bfebe10f">
+        <dex dex="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_de589b8cce766f9b208077c5d0584351b665ba8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_68072e781b3b9df172809a0709969d8e0aad01ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_1955ea58e75877bc828c960e8d4d0bebaa369561/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_049c6dbbad99c89556fd7c13a082a7676c83c916/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_48072c646ce28474e6117429c1fb2ada64a1484f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thomas/.gradle/caches/modules-2/files-2.1/com.stripe/stripe-java/3.2.0/bd2322ddc57edd4c0374203a1bf4e1bf4298f0bf/stripe-java-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bd2322ddc57edd4c0374203a1bf4e1bf4298f0bf">
+        <dex dex="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/transforms/dex/debug/folders/1000/10/stripe-java-3.2.0_883c69a67d735aaf987385a05d4021d3880c25f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/exploded-aar/com.stripe/stripe-android/1.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c7e803d33ded1e6ad99abe1cd690712aefedf5b3">
+        <dex dex="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.stripe-stripe-android-1.1.1_0e15578ee3bb58e362969d50c91015d12608fe85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25d86c8b065a51c7373cb27276185696809e2292">
+        <dex dex="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bd5b165ca61f2c3454780790a2e71b8b5e745818/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_b4deac5c2677ebd2ca120d3234b8c1e56f031085/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_e31ab5e65fcbe029f390d95a330b5e16b3981b6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thomas/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_59ae54ca0deb336763beb00857ca0502a32f2d6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_fd37eb0d21a824faf045eb3e1f7982db0dd2d00c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thomas/Bureau/android-studio/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.2.4_f4bfe0d198ae6a6718efbc27796a85b561aa56ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_7633e2138e4456416261377f94759f30efe3f720/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_144f36857cfedff389c9c0d87452dc63cbfbca6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_5168ef6b5a3f290b330d47fd78aa72ead6f23bca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_9914870add95a50e5b5b334879873fc7238aeb6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_4816f820ff89465dd299513b6bbde251e493dbc4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.1_7a521a85bf18512b5b24b23dbc3f07c5c9d2974d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_a94b9a3553ed18ce6afb75c964a3f836506f65ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_ef1eec44f61571fb935ad6e94cf1f21dc04f36b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.1_e7e49a010633342e3808720e6d4258807195404d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/thomas/Bureau/android/yoloStripe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_865195348f53114f3c41375105296ba0271de7d0/classes.dex" />
+    </item>
+
+</items>
